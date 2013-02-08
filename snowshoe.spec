@@ -18,6 +18,7 @@ BuildRequires: pkgconfig(Qt5WebKit)
 BuildRequires: pkgconfig(Qt5WebKitWidgets)
 BuildRequires: pkgconfig(Qt5Qml)
 BuildRequires: pkgconfig(Qt5Quick)
+BuildRequires: qmake5
 Requires: %{_lib}qt5sql5-sqlite
 
 %description
