@@ -1,5 +1,5 @@
 %define git 20130208
-
+%define debug_package %{nil}
 Name: snowshoe
 Version: 0.1
 Release: 0.%git.1
